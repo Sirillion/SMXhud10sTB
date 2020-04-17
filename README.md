@@ -1,7 +1,7 @@
 # SMXhud10sTB - A18
 
 <p align="center">
-  <img src="https://i.imgur.com/IdOdYuT.jpg" width="700" title="SMXhud10sTB - A18">
+  <img src="https://i.imgur.com/IdOdYuT.jpg" width="700" title="SMXhud10sTB used in Ravenhearst 6 - A18">
 </p>
 
 **Description:**
